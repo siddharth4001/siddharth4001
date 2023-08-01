@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter, Python.
 - 📫 Connect to me via mail -> siddharthvatsal@gmail.com
 - ⚡ Fun fact: I ❤ good music &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Playlist](https://img.shields.io/badge/My%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/playlist/7j4pdc5O6yJbcWC1SkYJA0?si=94ae1d67ae5d4f29](https://open.spotify.com/playlist/0oYu83BsY71WxSTpNnZxd6))
+[![My Playlist](https://img.shields.io/badge/My%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0oYu83BsY71WxSTpNnZxd6)
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="180" />
 
