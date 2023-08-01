@@ -35,5 +35,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-<p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
